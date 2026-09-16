@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "WINNSI.DLL",
+  "latest": "3288765383-907CE42FFA71F5085D1468AD2D40D62C-1",
+  "builds": [
+    {
+      "key": "3288765383-907CE42FFA71F5085D1468AD2D40D62C-1",
+      "timestamp": "3288765383",
+      "pdb_guid": "907CE42FFA71F5085D1468AD2D40D62C",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3288765383-907CE42FFA71F5085D1468AD2D40D62C-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
